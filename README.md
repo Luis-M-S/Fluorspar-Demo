@@ -5,7 +5,7 @@ Verciones no finales del juego Fluorspar
  
 ## Verciones Actuales:
 
-###[PreAlphas] (https://github.com/Luis-M-S/Fluorspar-Demo/tree/main/Verciones%20PreAlphas)
+###[PreAlphas](https://github.com/Luis-M-S/Fluorspar-Demo/tree/main/Verciones%20PreAlphas)
 
 
 ##Verciones legacy: 
